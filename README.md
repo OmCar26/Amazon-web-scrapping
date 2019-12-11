@@ -20,3 +20,6 @@ When product prices is fall down then it will compare your Before Entered Price 
 1. ADD Button on UI is to add mutilple product at time.
 2. SAVE TO EXCEL will store all info in to Excel file (It cannot be updated).
 3. Execute Script it will check product price and compare with stored excel file value then it will send an email.
+
+## ScreenShot
+![alt text](https://github.com/imrushi/Amazon-Web-Scraping/blob/master/screenshot.PNG "Screenshot")
