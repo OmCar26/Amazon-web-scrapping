@@ -1,6 +1,6 @@
 # Amazon-Web-Scraping
 It is software in which you want to insert URL of Amazon Product with Url you have to add two more details like your E-mail address & Price of prouct which should be less.
-When product prices is fall down then it will compare your Before Entered Price with Current Product price if it less than Before Entered Price Then it will send you an email on given Reciver Email address.
+When product prices fall down then it will compare your Before Entered Price with Current Product price if it less than Before Entered Price Then it will send you an email on given Reciver Email address.
 
 ## Changes To be Done In Webscrapping.py
 1. Go on line where it said ```pass1="Paste_Generated_password_here"```. 
